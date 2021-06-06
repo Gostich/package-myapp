@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # makemigrations.py
 
 from django.core.management import call_command
